@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dtnguyen328
 - 👀 I’m interested in learning PowerShell, Python
 - 🌱 I’m currently learning PowerShell, Python
-- 📫 Reach me @ nguytdu2yahoo.com
+- 📫 Reach me @ nguytdu@yahoo.com
 
 
 <!---
